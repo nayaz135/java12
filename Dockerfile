@@ -9,7 +9,7 @@ COPY HelloWorld.java .
 
 MAINTAINER
 
-hi
+hi hello
 
 
 
